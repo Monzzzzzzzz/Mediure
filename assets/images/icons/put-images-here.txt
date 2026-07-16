@@ -1,0 +1,16 @@
+🎨 ICONS
+─────────
+Place custom icons (SVG or PNG) used across the site here.
+
+Accepted formats: .svg, .png (prefer SVG for crisp scaling)
+Suggested size: 24×24px to 64×64px per icon.
+
+Examples:
+  - logo-icon.svg        → brand icon / favicon
+  - hamburger.svg        → custom hamburger menu icon
+  - social-youtube.svg   → YouTube icon
+  - social-instagram.svg → Instagram icon
+  - social-twitter.svg   → Twitter/X icon
+  - social-linkedin.svg  → LinkedIn icon
+  - arrow-right.svg      → arrow for CTAs
+  - search.svg           → search icon

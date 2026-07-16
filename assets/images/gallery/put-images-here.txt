@@ -1,0 +1,14 @@
+🖼️ GALLERY IMAGES
+──────────────────
+Place RAKMHSU campus life photos here.
+
+Accepted formats: .jpg, .png, .webp
+Suggested size: 1200×800px or larger for gallery grid displays.
+
+Examples:
+  - campus-aerial.jpg       → campus overview shot
+  - library.jpg             → library / study area
+  - clinical-skills-lab.jpg → hands-on training space
+  - lecture-hall.jpg        → classroom environment
+  - student-common-area.jpg → social / common area
+  - event.jpg               → university event or activity

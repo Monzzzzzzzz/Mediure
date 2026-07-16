@@ -1,0 +1,10 @@
+📸 HERO IMAGES
+─────────────────
+Place hero section background/banner images here.
+
+Accepted formats: .jpg, .png, .webp, .svg
+Suggested size: 1920×1080px or larger for full-width banners.
+
+Examples:
+  - hero-bg.jpg       → main hero background
+  - hero-overlay.png  → overlay patterns or gradients

@@ -1,0 +1,11 @@
+🖼️ VIDEO THUMBNAILS
+────────────────────
+Place thumbnail images for the Videos page cards here.
+
+Accepted formats: .jpg, .png, .webp
+Suggested size: 1280×720px (16:9 ratio for YouTube-style thumbnails).
+
+Examples:
+  - day-in-life-thumb.jpg     → thumbnail for day-in-life video
+  - anatomy-review-thumb.jpg  → thumbnail for anatomy review video
+  - clinical-skills-thumb.jpg → thumbnail for clinical skills demo

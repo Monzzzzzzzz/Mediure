@@ -1,0 +1,24 @@
+🔤 CUSTOM FONTS
+────────────────
+Place any custom font files here if you add them later.
+
+Accepted formats: .woff2, .woff, .ttf, .otf, .eot
+Recommended: Use .woff2 as the primary format (best compression).
+
+Usage:
+  1. Copy your font files into this folder
+  2. Declare them in style.css using @font-face:
+     @font-face {
+       font-family: 'YourFontName';
+       src: url('../assets/fonts/your-font.woff2') format('woff2'),
+            url('../assets/fonts/your-font.woff') format('woff');
+       font-weight: 400;
+       font-style: normal;
+       font-display: swap;
+     }
+  3. Reference the font-family in your CSS rules
+
+Examples:
+  - inter-variable.woff2    → Inter variable font
+  - playfair-display.woff2  → Playfair Display for headings
+  - jetbrains-mono.ttf      → JetBrains Mono for code snippets

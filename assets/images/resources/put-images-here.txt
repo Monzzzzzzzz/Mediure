@@ -1,0 +1,13 @@
+📖 RESOURCE THUMBNAILS
+──────────────────────
+Place thumbnail images for Notes & Resources page cards.
+
+Accepted formats: .jpg, .png, .webp
+Suggested size: 600×400px (card thumbnail ratio).
+
+Examples:
+  - anatomy-guide.jpg       → anatomy study guide thumbnail
+  - biochemistry-notes.jpg  → biochemistry resource thumbnail
+  - pharmacology-summary.jpg → pharmacology quick-reference card
+  - clinical-skills.jpg     → clinical skills cheat sheet
+  - past-paper-preview.jpg  → past paper preview image

@@ -1,0 +1,11 @@
+👤 PROFILE PHOTOS
+─────────────────
+Place your personal photo(s) here — for the About page, author cards, etc.
+
+Accepted formats: .jpg, .png, .webp
+Suggested size: 800×800px minimum (square crop recommended for profile circles).
+
+Examples:
+  - profile-main.jpg        → main about-page headshot
+  - profile-card.jpg        → smaller version for blog card author avatars
+  - profile-bg.jpg          → behind-the-scenes / candid study shot

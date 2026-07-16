@@ -1,0 +1,14 @@
+📄 DOWNLOADABLE DOCUMENTS
+─────────────────────────
+Place PDF notes, past papers, study guides, or any downloadable resources here.
+
+Accepted formats: .pdf, .docx, .pptx, .xlsx, .zip
+Max recommended size: 10MB per file (for fast downloads).
+
+Examples:
+  - anatomy-midterm-notes.pdf       → compiled anatomy notes
+  - biochemistry-flashcards.pdf     → printable flashcard deck
+  - past-paper-pharmacology.pdf     → past exam paper
+  - clinical-skills-checklist.pdf   → OSCE prep checklist
+  - study-schedule-template.pdf     → blank study planner
+  - resource-bundle.zip             → collection of resources in one zip

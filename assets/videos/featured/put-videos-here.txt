@@ -1,0 +1,12 @@
+🎬 FEATURED VIDEOS
+───────────────────
+Place your recorded video files here (if/when you make them).
+
+Accepted formats: .mp4, .mov, .webm
+Suggested max size: 1080p resolution for web-optimized playback.
+
+Examples:
+  - day-in-life.mp4         → "A Day in the Life at RAKMHSU" video
+  - anatomy-review.mp4      → anatomy review / study-with-me
+  - clinical-skills-demo.mp4 → clinical procedure demonstration
+  - interview-prep.mp4      → medical interview tips & prep
